@@ -2,7 +2,7 @@
 This repository is for **Python for Machine Learning** lecture related material and projects  
 All lecture related materials are based on: 
 * [머신 러닝을 위한 파이썬](https://www.edwith.org/aipython)
-* [파이썬을 여행하는 히치하이커를 위한 안내서](https://python-guide-kr.readthedocs.io/ko/latest/)
+* [머신 러닝/딥러닝을 위한 Python ](https://github.com/TEAMLAB-Lecture/AI-python-connect)
 ---
 
 ## Note
